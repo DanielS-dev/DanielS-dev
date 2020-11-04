@@ -3,7 +3,7 @@
 ```Java
 class Daniel {
   private String name;
-  private List<String> technologies;
+  private List<String> technologies = new ArrayList<>();
   
   name = "Daniel Silva";
   
