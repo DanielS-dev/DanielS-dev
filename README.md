@@ -1,18 +1,5 @@
 ### Hello people 👋
-### My name is Daniel Silva i am back-end developer
-```Java
-class Daniel {
-  private String name;
-  private List<String> technologies = new ArrayList<>();
-  
-  name = "Daniel Silva";
-  
-  technologies.add("Java");
-  technologies.add("Spring Boot");
-  technologies.add("SQL");
-  technologies.add("Git");
-}
-```
+### My name is Daniel Silva.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielS-dev&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS-dev&langs_count=3&theme=dark&)
