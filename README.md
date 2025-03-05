@@ -1,5 +1,6 @@
 ### Hello people 👋
 ### My name is Daniel Silva.
+### I'm studying Excel and GitHub
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielS-dev&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS-dev&langs_count=3&theme=dark&)
