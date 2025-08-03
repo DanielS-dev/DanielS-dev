@@ -29,6 +29,6 @@ junto a banco de dados Mysql e Sqlite.
 ## ⭐ GitHub Stats
 
 <div>
-  <img alt="My stats" height="180em"  src="https://github-readme-stats.vercel.app/api?username=DanielS-dev&show_icons=true&theme=nightowl"/>
-  <img alt="Top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS-dev&layout=compact&langs_count-&theme=nightowl"/> 
+  <img alt="My stats" height="150em"  src="https://github-readme-stats.vercel.app/api?username=DanielS-dev&show_icons=true&theme=nightowl"/>
+  <img alt="Top langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS-dev&layout=compact&langs_count-&theme=nightowl"/> 
 </div>
