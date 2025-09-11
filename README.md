@@ -1,4 +1,4 @@
-## Olá pessoal, meu nome é Danie!
+## Olá pessoal, meu nome é Daniel!
 
 Atualmente estou estudando linguagens C/C++ e Lua.
 junto a banco de dados Mysql e Sqlite.
