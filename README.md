@@ -15,12 +15,12 @@ junto a banco de dados Mysql e Sqlite.
 ## 🚀 Minhas Skills
 
 <div style="display: inline_block">
-  
-  <code><img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-  <code><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="c++"/></code>
-  <code><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="c++"/></code>
-  <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-  <code><img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/free-sqlite-282687.png" alt="MySQL"/></code>
+
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -28,7 +28,4 @@ junto a banco de dados Mysql e Sqlite.
 
 ## ⭐ GitHub Stats
 
-<div>
-  <img alt="My stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielS-dev&show_icons=true&theme=nightowl"/>
-  <img alt="Top langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielS-dev&layout=compact&theme=nightowl"/> 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielS-dev&theme=nightowl&locale=pt_BR)](https://git.io/streak-stats)
